@@ -1,8 +1,8 @@
-# Data to div
-
 ```
 npm install data-to-div
 ```
+
+# Data to div
 
 DataToDiv automatically generates html based on a data object. What's more: it can also generate data based on html that was previously generateed with DataToDiv :-) This can be useful for quick prototyping or even an on-page cms (if you change the html contents on the page, you can later convert it back to data to save the changes!).
 
