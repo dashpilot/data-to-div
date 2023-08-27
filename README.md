@@ -13,7 +13,7 @@ run.js contains a demo, but here's the rundown:
 ### toDiv
 toDiv converts the data to HTML
 
-```
+```js
 // import the module
 import {toDiv, toData} from "./index.js"
 import * as fs from "fs"
@@ -48,7 +48,7 @@ console.log(html);
 ### toData
 toData converts the HTML back to data
 
-```
+```js
 console.log(JSON.stringify(toData(html)));
 
 ```
