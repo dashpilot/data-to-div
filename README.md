@@ -46,10 +46,12 @@ console.log(html);
 ```
 
 ### toData
-
 toData converts the HTML back to data
 
 ```
 console.log(JSON.stringify(toData(html)));
 
 ```
+
+## Press the :star: button
+Don't forget to press the :star: button to let me know I should continue improving this project.
